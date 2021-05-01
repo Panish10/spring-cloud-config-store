@@ -1,0 +1,3 @@
+service:
+ greeting: Hello from srevice 3
+ id: 3
